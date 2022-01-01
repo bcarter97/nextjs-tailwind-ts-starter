@@ -1,5 +1,5 @@
 {
-  "name": "bcarter97-showcase",
+  "name": "nextjs-tailwind-ts-starter",
   "private": true,
   "scripts": {
     "dev": "next dev",
