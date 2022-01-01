@@ -2,6 +2,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```bash
+npx create-next-app -e https://github.com/bcarter97/nextjs-tailwind-ts-starter <project-name>
+
+cd <project-name>
+
+yarn dev
+```
+
+## Commands
+
 | Command         | Description                            |
 | --------------- | -------------------------------------- |
 | `yarn dev`      | Starts the development server.         |
